@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <h3>IbrahimIF</h3>
+      <h1>IbrahimIF</h1>
       <p>I'm currently studying software engineering in University in the UK (disclosed location).</p>
       <p> My skills include coding with C#, Javascript, Java, html & css, Currently working on a project with the title as a project .</p>
 </td>
