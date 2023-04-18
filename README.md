@@ -1,6 +1,6 @@
 ### 
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/431043132889628682?animationDuration=10s&waveColor=FFFFFF&gradient=645CBB-A084DC-BFACE2EBC7E6&imgStyle=square&imgStyle=square&imgBorderRadius=15px&theme=:darkt&borderRadius=10px&hideStatus=false&hideBadges=false&hideDiscrim=true&idleMessage=Stop%20looking%20at%20my%20account.)](https://discord.com/users/431043132889628682)
+[![Discord Presence](https://lanyard.kyrie25.me/api/431043132889628682?animationDuration=10s&waveColor=FFFFFF&gradient=645CBB-A084DC-BFACE2EBC7E6&imgStyle=square&theme=:darkt&borderRadius=10px&hideStatus=false&hideBadges=false&hideDiscrim=true&idleMessage=Stop%20looking%20at%20my%20account.)](https://discord.com/users/431043132889628682)
 
 
 <!--
