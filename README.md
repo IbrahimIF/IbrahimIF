@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:431043132889628682)](https://discord.com/users/:431043132889628682)
+
+
+
 <!--
 **IbrahimIF/IbrahimIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
