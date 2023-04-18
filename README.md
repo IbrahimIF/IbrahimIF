@@ -1,6 +1,6 @@
 ### 
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/431043132889628682?animationDuration=4s&waveColor=FFFFFF&imgStyle=square&imgBorderRadius=10px&theme=:darkt&borderRadius=10px&idleMessage=Stop%20looking%20at%20my%20account.)](https://discord.com/users/431043132889628682)
+[![Discord Presence](https://lanyard.kyrie25.me/api/431043132889628682?animationDuration=4s&imgStyle=square&imgBorderRadius=10px&theme=:darkt&borderRadius=10px&idleMessage=Stop%20looking%20at%20my%20account.)](https://discord.com/users/431043132889628682)
 
 
 <!--
