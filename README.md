@@ -1,7 +1,15 @@
 ### 
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/431043132889628682?animationDuration=4s&imgStyle=square&imgBorderRadius=10px&theme=:darkt&borderRadius=10px&idleMessage=Stop%20looking%20at%20my%20account.)](https://discord.com/users/431043132889628682)
-
+<table>
+  <tr>
+    <td>
+      <h3>IbrahimIF</h3>
+      <span>I'm currently studying software engineering in University in the UK (disclosed location).</span>
+      <span> My skills include coding with C#, Javascript, Java, html & css, Currently working on a project with the title as a project .</span>
+</td>
+    <td><img src="https://lanyard.kyrie25.me/api/431043132889628682?&imgStyle=square&imgBorderRadius=30px&gradient=645CBB-A084DC-BFACE2-EBC7E6&animationDuration=4s&theme=:dark&borderRadius=10px&idleMessage=Stop%20looking%20at%20my%20account." alt="Discord Presence"></td>
+  </tr>
+</table>
 
 <!--
 **IbrahimIF/IbrahimIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
