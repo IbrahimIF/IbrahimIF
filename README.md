@@ -41,8 +41,8 @@
 
 <table>
         <tr>
-            <td> <img src="https://readme-stats-ibrahimif.vercel.app/api/top-langs/?username=IbrahimIF&hide_progress=true&theme=dark&langs_count=8&bg_color=00000000" /></td>
-            <td><img src="https://readme-stats-ibrahimif.vercel.app/api?username=IbrahimIF&theme=transparent&show_icons=true&bg_color=00000000&rank_icon=github" /> </td>
+            <td> <img src="https://readme-stats.vercel.app/api/top-langs/?username=IbrahimIF&hide_progress=true&theme=dark&langs_count=8&bg_color=00000000" /></td>
+            <td><img src="https://readme-stats.vercel.app/api?username=IbrahimIF&theme=transparent&show_icons=true&bg_color=00000000&rank_icon=github" /> </td>
             <td rowspan=2><img src="https://komarev.com/ghpvc/?username=ibrahimif&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimif" /> </td>
         </tr>
         <tr>
