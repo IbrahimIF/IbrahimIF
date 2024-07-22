@@ -26,15 +26,15 @@
   
 | Programming Languages | 
 | :---: |
-|[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,ts)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,ts,r,py)](https://skillicons.dev)|
 | Future Languages & IDEs | 
-|[![My Skills](https://skillicons.dev/icons?i=cpp,idea,kotlin,lua,py)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=cpp,idea,kotlin,lua,spring,c,neovim,sublime)](https://skillicons.dev)|
 
 | **Frameworks and Libraries** | **Databases and Hosting services** |
 | :---: | :---: |
-|[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,nextjs,tailwind)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=mysql,vercel,sqlite)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,nextjs,tailwind)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=mysql,vercel,sqlite,mongodb)](https://skillicons.dev)|
 | **IDE** | **Design**|
-|[![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=blender,figma,codepen,ps,sketchup,unity)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,codepen)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=blender,figma,ps,unity,ai,obsidian,ps)](https://skillicons.dev)|
 
 
 # My Stats
@@ -44,10 +44,10 @@
         <tr>
             <td> <img src="https://readme-stats-flax-nine.vercel.app/api/top-langs/?username=IbrahimIF&hide_progress=true&theme=dark&langs_count=8&bg_color=00000000" /></td>
             <td><img src="https://readme-stats-flax-nine.vercel.app/api?username=IbrahimIF&theme=transparent&show_icons=true&bg_color=00000000&rank_icon=github" /> </td>
-            <td rowspan=2><img src="https://komarev.com/ghpvc/?username=Ibrahimif&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimif" /> </td>
+            <td rowspan=2><img src="https://komarev.com/ghpvc/?username=Ibrahimif&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="ibrahimif" /> </td>
         </tr>
         <tr>
-            <td colspan=2 align="center" ><img src="https://streak-stats.demolab.com/?user=IbrahimIF&theme=highcontrast" /></td>
+            <td colspan=2 align="center" ><img src="https://streak-stats.demolab.com/?user=IbrahimIF&theme=dark" /></td>
         </tr>
 </table>
 
