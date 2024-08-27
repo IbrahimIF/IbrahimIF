@@ -6,9 +6,9 @@
   
 ## *About Me:*
   <div align="center">
-<h4 align="center">I'm currently studying Computer Science(Software Engineering) in University in the UK (disclosed location). </h4>
+<h4 align="center">I am a graduate in Computer Science specialised in Software Engineering from a University in the UK (disclosed location). </h4>
 </div>
-
+<!--
 ### Discord Status
 
 <div align="center">
@@ -20,7 +20,8 @@
  </tr>
 </table>
  </div>
-   
+   -->
+
 # My Skills
 <div align="center">
   
@@ -46,7 +47,7 @@
             <td><img src="https://readme-stats-flax-nine.vercel.app/api?username=IbrahimIF&theme=transparent&show_icons=true&bg_color=00000000&rank_icon=github" /> </td>
             <td rowspan=2><img src="https://komarev.com/ghpvc/?username=Ibrahimif&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="ibrahimif" /> </td>
         </tr>
-        <tr>
+        <tr style="background-color: #100c14;">
             <td colspan=2 align="center" ><img src="https://streak-stats.demolab.com/?user=IbrahimIF&theme=dark" /></td>
         </tr>
 </table>
