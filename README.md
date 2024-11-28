@@ -8,7 +8,7 @@
   <h3 align="center"> 👋🏿 Hi! My name is Ibrahim  </h4>
 </div>
 
-  <h5 align="center">I'm a graduate in Computer Science - Software Engineering and aspiring sofwtare developer  </h4>
+  <h5 align="center">I'm a graduate in Computer Science with a specialisation in Software Engineering, aspiring to build innovative solutions as a software engineer. </h4>
 </div>
 
 ![Alt Text](https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif)
