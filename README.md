@@ -20,23 +20,23 @@
 
 | Programming Languages | 
 | :---: |
-|[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,ts,r,py)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py)](https://skillicons.dev)|
 
 <!-- 
 | Future Languages & IDEs | 
 |[![My Skills](https://skillicons.dev/icons?i=cpp,idea,kotlin,lua,spring,c,neovim,sublime)](https://skillicons.dev)|!
 -->
-
+<!-- 
 | **Frameworks and Libraries** | **Databases and Hosting services** |
 | :---: | :---: |
-|[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,nextjs,tailwind)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=mysql,vercel,sqlite,mongodb)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,tailwind)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=mysql,vercel,mongodb)](https://skillicons.dev)|
 | **IDE** | **Design**|
 |[![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,codepen)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=blender,figma,ps,unity,ai,obsidian,ps)](https://skillicons.dev)|
-
+-->
 ---
 ### Stats:
 
-![Hassan's github stats](https://readme-stats-flax-nine.vercel.app/api?username=IbrahimIF&theme=transparent&show_icons=true&bg_color=00000000&rank_icon=github)
+![Ibrahim's github stats](https://readme-stats-flax-nine.vercel.app/api?username=IbrahimIF&theme=transparent&show_icons=true&bg_color=00000000&rank_icon=github)
 ![Top Langs](https://readme-stats-flax-nine.vercel.app/api/top-langs/?username=IbrahimIF&hide_progress=true&theme=dark&bg_color=00000000&langs_count=12)
 
 
