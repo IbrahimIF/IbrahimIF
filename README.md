@@ -20,7 +20,7 @@
 
 | Programming Languages | 
 | :---: |
-|[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,typescript)](https://skillicons.dev)|
 
 <!-- 
 | Future Languages & IDEs | 
