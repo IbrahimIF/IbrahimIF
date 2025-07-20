@@ -24,7 +24,7 @@
   
 | Programming Languages | 
 | :---: |
-|[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,typescript)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,typescript,go)](https://skillicons.dev)|
 
 | **Frameworks and Libraries** | **Databases and Hosting services** |
 | :---: | :---: |
@@ -49,7 +49,7 @@
 <div align="center">
 
 ![Ibrahim's github stats](https://readme-stats-flax-nine.vercel.app/api?username=IbrahimIF&theme=transparent&show_icons=true&bg_color=00000000&rank_icon=github)
-![Top Langs](https://readme-stats-flax-nine.vercel.app/api/top-langs/?username=IbrahimIF&hide_progress=true&theme=dark&bg_color=00000000&langs_count=14)
+![Top Langs](https://readme-stats-flax-nine.vercel.app/api/top-langs/?username=IbrahimIF&hide_progress=true&theme=dark&bg_color=00000000&langs_count=16)
 
 </div>
 
